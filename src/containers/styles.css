@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.rdg-editor-container {
+  z-index: 1001 !important;
+}
+
+
+
